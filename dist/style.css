@@ -47,6 +47,17 @@ p {
   color: white;
 }
 
+/* Projects page */
+
+#project-box {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#pr-link {
+  margin-top: 10px;
+}
+
 
 /* Main page */
 
@@ -150,4 +161,12 @@ p {
 
 #education-grid {
   margin-bottom: 250px;
+}
+
+/* Contact page */
+
+#contact-box {
+  font-size: large;
+  margin-top: 100px;
+  width: 50%;
 }

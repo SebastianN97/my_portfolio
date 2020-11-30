@@ -30,28 +30,10 @@ class Projects extends Component {
     }
     return (
       <div className="ui main container">
-        <div className="ui stackable two column grid">
-          <div className="column">
-            <h1 id="projects-header" className="ui header">
-              My Projects
-            </h1>
-            <br></br>
-            <p>
-              Här kan ni se alla de projekt jag har gjort hos Craft Academy.
-              Besök gärna min GitHub för att kunna se de projekt som visas
-              nedan.
-              <br></br>
-              <br></br>
-              <a
-                id=""
-                href="https://github.com/SebastianN97"
-                target="_blank"
-              >
-                GitHub
-                <i class="github large icon"></i>{" "}
-              </a>
-            </p>
-          </div>
+        <div id="project-box" className="column">
+          <h1 id="projects-header" className="ui header">
+            My Projects
+          </h1>
         </div>
         <div className="ui stackable four column grid"> {projectsList} </div>
       </div>

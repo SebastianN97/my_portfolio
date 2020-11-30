@@ -7,13 +7,13 @@
   },
   {
     "name": "Crime Tracker Client",
-    "image": "https://wallpapercave.com/wp/wp2115744.jpg",
+    "image": "",
     "description": "Front-end for crime tracker application. #JavaScript #React #Cypress",
     "git": "https://github.com/SebastianN97/crime_tracker_client_team_1"
   },
   {
     "name": "Crime Tracker API",
-    "image": "https://wallpapercave.com/wp/wp2115744.jpg",
+    "image": "",
     "description": "Back-end for crime tracker application. #RubyOnRails #Rspec",
     "git": "https://github.com/SebastianN97/crime_tracker_api_team_1"
   },
