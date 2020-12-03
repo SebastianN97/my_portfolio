@@ -62,11 +62,12 @@ p {
 /* Main page */
 
 #profile-img {
+  margin-top: 50px;
   margin-left: 80px;
   width: 390px;
-  border-radius: 50px;
+  border-radius: 30px;
   border-style: solid;
-  border-color: blue;
+  border-color: rgb(101, 101, 105);
 }
 
 #hello-container {
@@ -75,6 +76,10 @@ p {
 
 #header {
   font-size: 30px;
+}
+
+#hello-icon {
+  margin: 10px;
 }
 
 #words-box {
